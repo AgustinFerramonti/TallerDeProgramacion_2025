@@ -9,7 +9,8 @@ Este repositorio contiene algunas practicas y examenes resueltos, se asemejan a 
 
 - [Módulos](#módulos)
   - [Imperativo](#imperativo)
-  - [Objetos](#Objetos)
+  - [Objetos](#TallerDeProgramacion_2025
+/Objetos/)
   - [Concurrente](#concurrente)
 - [Contribución](#contribución)
 - [Contacto](#contacto)
