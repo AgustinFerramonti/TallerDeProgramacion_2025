@@ -1,32 +1,21 @@
 # Taller de Programación
 
-Este repositorio contiene algunas practicas y examenes resueltos, se asemejan a lo que pide la materia, pero no son oficiales ni corregidos por profesores.
+>[!WARNING]
+>Este repositorio contiene algunas practicas y examenes resueltos, por medio de los enunciados de la materia, asi mismo no representan la opinion oficial de la cátedra, profesores o ayudantes.
 
 ---
 
-## Tabla de Contenidos
-
-
-- [Módulos](#módulos)
+# Módulos
   - [Imperativo](#imperativo)
-  - [Objetos](#TallerDeProgramacion_2025
-/Objetos/)
+    
+  - [Objetos](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos)
+      - [TP Proyecto Alumnos](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Tp%20Proyectos%20Alumnos)
+      - [Practica 3](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Practica%203)
+      - [Practica 4](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Practica%204)
+      - [Practica 5](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Practica%205)
+      - [Enunciados Especiales](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Parciales)
+        
   - [Concurrente](#concurrente)
-- [Contribución](#contribución)
-- [Contacto](#contacto)
-
----
-
-## Estructura del Proyecto
-
-```
-taller-programacion/
-├── imperativo/
-├── objetos/
-└── concurrente/
-```
-
-Cada carpeta contiene ejercicios, ejemplos y material correspondiente a cada módulo.
 
 ---
 
