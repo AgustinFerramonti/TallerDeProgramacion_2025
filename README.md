@@ -6,16 +6,16 @@
 ---
 
 # Módulos
-  - [Imperativo](#imperativo)
-    
-  - [Objetos](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos)
-      - [TP Proyecto Alumnos](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Tp%20Proyectos%20Alumnos)
-      - [Practica 3](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Practica%203)
-      - [Practica 4](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Practica%204)
-      - [Practica 5](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Practica%205)
-      - [Enunciados Especiales](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos/Parciales)
-        
-  - [Concurrente](#concurrente)
+
+
+taller-programacion
+
+├── [imperativo]()
+
+├── [Objetos](https://github.com/AgustinFerramonti/TallerDeProgramacion_2025/tree/master/Objetos)
+
+└── [concurrente]()
+
 
 ---
 
