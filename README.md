@@ -1,7 +1,7 @@
 # Taller de Programación
 
 >[!WARNING]
->Este repositorio contiene algunas practicas y examenes resueltos, por medio de los enunciados de la materia, asi mismo no representan la opinion oficial de la cátedra, profesores o ayudantes.
+>Este repositorio contiene algunas practicas y ejercicios especiales en relacion a los enunciados de la propia materia, asi mismo no representan la opinion ni correccion oficial de la cátedra o de los profesores y ayudantes.
 
 ---
 
